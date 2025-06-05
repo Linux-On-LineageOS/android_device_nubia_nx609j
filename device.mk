@@ -90,3 +90,4 @@ PRODUCT_PACKAGES += \
 
 # Get non-open-source specific aspects
 $(call inherit-product, vendor/nubia/nx609j/nx609j-vendor.mk)
+
